@@ -5,5 +5,5 @@ def turn_count(board)
     if block == "X" || block == "O"
       counter += 1 
    end
-e
+end
   end
